@@ -1,0 +1,14 @@
+layout_spectrum: 0.9956774932797998
+typography_spectrum: 0.9133995657321066
+color:
+  brandStrength: 0.7156830970197916
+  lightness: 0.015481481095775962
+  saturation: 0.1644950550980866
+  rhythmicContrast: 0.7543944246135652
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: resal
